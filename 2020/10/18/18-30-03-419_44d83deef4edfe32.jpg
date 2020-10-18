@@ -1,0 +1,1628 @@
+<!DOCTYPE html>
+<html class='wf-loading' lang='en'>
+<head>
+<title>
+HyperVocal
+</title>
+<script async='' src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'></script>
+<script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-PSJM48B');
+</script>
+<meta charset='utf-8'>
+<meta content='IE=edge' http-equiv='X-UA-Compatible'>
+<meta content='width=device-width, initial-scale=1.0' name='viewport'>
+<meta content='#ffffff' name='theme-color'>
+<link href='https://d3athacxxkkdtx.cloudfront.net/assets/favicons/apple-touch-icon-7d817cec02285d94cb4d12b815f6f3e49cdbd5a9ad348a779124c3e795631b0f.png' rel='apple-touch-icon' sizes='180x180'>
+<link href='https://d3athacxxkkdtx.cloudfront.net/assets/favicons/favicon-32x32-cfbc536ddb1af047e1569ee9daf630626e9d69aae921e9ededf83f6fbd02b7a9.png' rel='icon' sizes='32x32' type='image/png'>
+<link href='https://d3athacxxkkdtx.cloudfront.net/assets/favicons/favicon-16x16-cb92f25768e2ec04d523f239efbe4a8420a8d569140e0e824b2045213f03ade4.png' rel='icon' sizes='16x16' type='image/png'>
+<link color='#000000' href='https://d3athacxxkkdtx.cloudfront.net/assets/favicons/safari-pinned-tab-c26d834beaf52c36cc9438d1b988b1c4b1fe0e85fa4918c128067f5565b99103.svg' rel='mask-icon'>
+<link href='https://fonts.googleapis.com/css?family=Oswald:300,400,700|Poppins:300,400,500,600,700' rel='stylesheet'>
+<link rel="stylesheet" media="all" href="https://d3athacxxkkdtx.cloudfront.net/assets/vendor-866bfa9b5d09cde66a4cc7a220f34440c9777f889f433d51d5f6d704e02c16cb.css" />
+<link rel="stylesheet" media="all" href="https://d3athacxxkkdtx.cloudfront.net/assets/application-946333c45252b60c24dcf5db80c21a775f205ec86ae1a47d90ff501e485a55ed.css" />
+<meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="GC6+Q9D2tKK6tZ/vQA7Jw/fRrAYlKxJiJif0whHIvOETiy1hlZQXOALfL4Z+L5/iI9D2wtwe1+JAznZheTixyQ==" />
+<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>  <![endif]-->
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+</head>
+<body class='logged-out controller-items  no-touch items-index'>
+<div id='wrapper'>
+<div class='page-container'>
+<header class='' id='header'>
+<div class='header-holder'>
+<div class='navbar-inverse navbar-top'>
+<div class='container'>
+<div class='header-info-bar not-logged-state-trigger'>
+<div class='text-box'>
+<p class='visible-xs'>Get my free, custom newsletter</p>
+<p class='hidden-xs'>Get a free, custom news feed delivered to my inbox</p>
+</div>
+<form action='https://hypervocal.com/sign-up' class='navbar-form signup-form'>
+<div class='form-group hidden-xs'>
+<input class='form-control input-lg' name='email' placeholder='Your Email' type='email'>
+</div>
+<button class='btn btn-lg btn-default' type='submit'>SIGN UP</button>
+</form>
+<a class='navbar-btn visible-md visible-lg' href='https://hypervocal.com/sign-in'>LOG IN</a>
+</div>
+</div>
+</div>
+<nav class='navbar navbar-default navbar-affix fixed-mobile' data-offset-block='.navbar-top'>
+<div class='container'>
+<div class='navbar-main'>
+<a class='navbar-brand logo' href='https://hypervocal.com/'>
+<img height="57" width="156" src="https://d3athacxxkkdtx.cloudfront.net/assets/logo-6b8e5a01e4b78ce1bd482da58d3068d2afae4004cd9500470ae8bf12e76a6587.png" alt="Logo" />
+<em class='note'>All the news that's fit to share</em>
+</a>
+<div class='header-social hidden-xs hidden-sm'>
+<ul class='list-unstyled'>
+<li>
+<a href='https://www.facebook.com/hypervocal'>
+<i class='icon-facebook-secondary'></i>
+19,523 FOLLOWERS
+</a>
+</li>
+<li>
+<a href='https://www.twitter.com/hypervocal'>
+<i class='icon-twitter'></i>
+4,831 FOLLOWERS
+</a>
+</li>
+</ul>
+</div>
+<a class='nav-opener visible-xs visible-sm' href='#'>
+<span></span>
+</a>
+</div>
+</div>
+</nav>
+</div>
+<div class='navbar-inverse header-nav navbar-affix fixed-desktop' data-offset-block='.header-holder'>
+<div class='container'>
+<div class='profile-options visible-xs visible-sm'>
+<div class='options-block'>
+<a class='login-block not-logged-state-trigger' href='https://hypervocal.com/sign-in'>
+<div class='profile-avatar'>
+<img height="24" width="24" src="https://d3athacxxkkdtx.cloudfront.net/assets/user-default@2x-161e9428da5caf2dd6f30dc9ab1623a8b80de83554892713d459372327b70fe7.png" alt="User default@2x" />
+</div>
+<span class='text'>LOG IN</span>
+</a>
+</div>
+</div>
+<nav id='main-nav'>
+<ul class='nav navbar-nav'>
+<li class='active'>
+<a href='https://hypervocal.com/'>
+<i class='decoration' style='background: #e94747;'></i>
+Most Vocal
+</a>
+</li>
+<li class=''>
+<a href='https://hypervocal.com/items/latest'>
+<i class='decoration' style='background: #ff7b4e;'></i>
+Latest News
+</a>
+</li>
+<li class=''>
+<a href='https://hypervocal.com/items/by-category/1/politics'>
+<i class='decoration' style='background: #4a77e2;'></i>
+Politics
+</a>
+</li>
+<li class=''>
+<a href='https://hypervocal.com/items/by-category/2/sport'>
+<i class='decoration' style='background: #f5a623;'></i>
+Sports
+</a>
+</li>
+<li class=''>
+<a href='https://hypervocal.com/items/by-category/3/tech'>
+<i class='decoration' style='background: #4ad16a;'></i>
+Tech
+</a>
+</li>
+<li class=''>
+<a href='https://hypervocal.com/items/by-category/4/lifestyle'>
+<i class='decoration' style='background: #50e3c2;'></i>
+Lifestyle
+</a>
+</li>
+<li class=''>
+<a href='https://hypervocal.com/items/by-category/5/weird'>
+<i class='decoration' style='background: #5d58cb;'></i>
+Weird
+</a>
+</li>
+</ul>
+</nav>
+<div class='profile-options logout-block logged-state-trigger'>
+<div class='options-block'>
+<a class='js-delete-item' data-href='https://hypervocal.com/sign-out' href='#'>
+<i class='icon-logout'></i>
+LOG OUT
+</a>
+</div>
+</div>
+</div>
+</div>
+</header>
+
+<main class='bg-fit page-holder padding-small'>
+<span data-srcset='https://d3athacxxkkdtx.cloudfront.net/assets/image001-mobile-bb4daa3f6fa2458635545218db07e5ad5d00e406a00107420dc51299ce6a0e21.jpg, https://d3athacxxkkdtx.cloudfront.net/assets/image001-mobile@2x-1c8cb2c01eaee931953cb4176b349241cef269e7158dfb170e9030a74925c56b.jpg 2x'></span>
+<span data-media='(min-width: 768px)' data-srcset='https://d3athacxxkkdtx.cloudfront.net/assets/image001-tablet-5dbf825e6e15fb4219f32da1a2633b0b874a63cb5245273fffa14adc7626d0ac.jpg, https://d3athacxxkkdtx.cloudfront.net/assets/image001-tablet@2x-31af4ffef22ef64d065c9eb2a0cf97ab73448823cffe3cb48b6c762efc4b9d5f.jpg 2x'></span>
+<span data-media='(min-width: 1024px)' data-srcset='https://d3athacxxkkdtx.cloudfront.net/assets/image001-desktop-45ef48ef46951493bc53b18b00761eee768d5f9e4ef246f7380f0da1fad59233.jpg, https://d3athacxxkkdtx.cloudfront.net/assets/image001-desktop@2x-159523c40a531324691f4483af46faa544140464423ccccf7061754fa33bde5f.jpg 2x'></span>
+<section class='content-section' id='news-scroll'>
+<div class='content-headline text-center'>
+<div class='container'>
+<div class='headline'>
+<h1 class='heading-skewed'>
+<span>MOST VOCAL</span>
+</h1>
+<ul class='tags-list list-inline hidden-xs'>
+<li>
+<a href='http://twitter.com/search?q=Browns' target='_blank'>
+Browns
+</a>
+</li>
+<li>
+<a href='http://twitter.com/search?q=Baker' target='_blank'>
+Baker
+</a>
+</li>
+<li>
+<a href='http://twitter.com/search?q=Steelers' target='_blank'>
+Steelers
+</a>
+</li>
+<li>
+<a href='http://twitter.com/search?q=Eagles' target='_blank'>
+Eagles
+</a>
+</li>
+<li>
+<a href='http://twitter.com/search?q=Colts' target='_blank'>
+Colts
+</a>
+</li>
+<li>
+<a href='http://twitter.com/search?q=Wentz' target='_blank'>
+Wentz
+</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class='container'>
+<div class='main-content-block'>
+<div class='articles-block article-counter'>
+<div class='newest-articles'>
+<div class='row posts-group same-height-block'>
+<div class='col-xs-12 col-sm-8'>
+<div class='category-politics item-secondary large-type post-item same-height-item'>
+<div class='category-holder'>
+<div class='post-category'>
+<div class='category-inner'>
+<a href='https://hypervocal.com/items/by-category/1/politics' target='_blank'>
+<span>Politics</span>
+</a>
+</div>
+</div>
+</div>
+<div class='post-holder'>
+<div class='visual-holder'>
+<a class='image-holder bg-cover' href='https://hypervocal.com/items/3815566'>
+<span data-srcset='https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20287549095398-e1602603940806.jpg, https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20287549095398-e1602603940806.jpg 2x'></span>
+<span data-media='(min-width: 768px)' data-srcset='https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20287549095398-e1602603940806.jpg, https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20287549095398-e1602603940806.jpg 2x'></span>
+<span data-media='(min-width: 1024px)' data-srcset='https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20287549095398-e1602603940806.jpg, https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20287549095398-e1602603940806.jpg 2x'></span>
+</a>
+<div class='visual-label'>
+<div class='label-inner'>
+<a class="icon-politics"></a>
+<span class='count'>254</span>
+</div>
+</div>
+</div>
+<div class='text-holder'>
+<p>
+<a href='https://hypervocal.com/items/3815566'>Amy Coney Barrett: The likely confirmation schedule for the Supreme Court nominee</a>
+</p>
+</div>
+<div class='meta-holder links-meta'>
+<ul class='list-unstyled list-inline meta-list'>
+<li>
+<i class='icon-clock'></i>
+23h
+</li>
+<li>
+<a href='https://hypervocal.com/items/3815566'>www.foxnews.com</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='meta-holder'>
+<ul class='list-unstyled list-inline'>
+<li>
+<a class='avatar-image bg-cover' href='http://twitter.com/ChadPergram' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/1166535687354671104/sLTw4iqu_normal.jpg" alt="Sltw4iqu normal" />
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+<div class='col-xs-6 col-sm-4'>
+<div class='category-politics item-secondary post-item same-height-item small-to-large'>
+<div class='category-holder'>
+<div class='post-category'>
+<div class='category-inner'>
+<a href='https://hypervocal.com/items/by-category/1/politics' target='_blank'>
+<span>Politics</span>
+</a>
+</div>
+</div>
+</div>
+<div class='post-holder'>
+<div class='visual-holder'>
+<a class='image-holder bg-cover' href='https://hypervocal.com/items/3815614'>
+<span data-srcset='https://thehill.com/sites/default/files/bloombergmichael_091120getty_budowsky.jpg, https://thehill.com/sites/default/files/bloombergmichael_091120getty_budowsky.jpg 2x'></span>
+<span data-media='(min-width: 768px)' data-srcset='https://thehill.com/sites/default/files/bloombergmichael_091120getty_budowsky.jpg, https://thehill.com/sites/default/files/bloombergmichael_091120getty_budowsky.jpg 2x'></span>
+<span data-media='(min-width: 1024px)' data-srcset='https://thehill.com/sites/default/files/bloombergmichael_091120getty_budowsky.jpg, https://thehill.com/sites/default/files/bloombergmichael_091120getty_budowsky.jpg 2x'></span>
+</a>
+<div class='visual-label'>
+<div class='label-inner'>
+<a class="icon-politics"></a>
+<span class='count'>696</span>
+</div>
+</div>
+</div>
+<div class='text-holder'>
+<p>
+<a href='https://hypervocal.com/items/3815614'>Bloomberg launches $2.4 million ad campaign appealing to Latino voters</a>
+</p>
+</div>
+<div class='meta-holder links-meta'>
+<ul class='list-unstyled list-inline meta-list'>
+<li>
+<i class='icon-clock'></i>
+23h
+</li>
+<li>
+<a href='https://hypervocal.com/items/3815614'>thehill.com</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='meta-holder'>
+<ul class='list-unstyled list-inline'>
+<li>
+<a class='avatar-image bg-cover' href='http://twitter.com/thehill' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg" alt="Tw7jpe5v normal" />
+</a>
+</li>
+<li>
+<a class='avatar-image bg-cover' href='https://twitter.com/hypervocal' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/901389723545063424/ty5YwerL_normal.jpg" alt="Ty5ywerl normal" />
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+<div class='col-xs-6 col-sm-4'>
+<div class='category-politics item-secondary post-item same-height-item small-type'>
+<div class='category-holder'>
+<div class='post-category'>
+<div class='category-inner'>
+<a href='https://hypervocal.com/items/by-category/1/politics' target='_blank'>
+<span>Politics</span>
+</a>
+</div>
+</div>
+</div>
+<div class='post-holder'>
+<div class='visual-holder'>
+<a class='image-holder bg-cover' href='https://hypervocal.com/items/3815645'>
+<span data-srcset='https://www.cdc.gov/coronavirus/2019-ncov/images/COVID-19-SM-1200px.jpg, https://www.cdc.gov/coronavirus/2019-ncov/images/COVID-19-SM-1200px.jpg 2x'></span>
+<span data-media='(min-width: 768px)' data-srcset='https://www.cdc.gov/coronavirus/2019-ncov/images/COVID-19-SM-1200px.jpg, https://www.cdc.gov/coronavirus/2019-ncov/images/COVID-19-SM-1200px.jpg 2x'></span>
+<span data-media='(min-width: 1024px)' data-srcset='https://www.cdc.gov/coronavirus/2019-ncov/images/COVID-19-SM-1200px.jpg, https://www.cdc.gov/coronavirus/2019-ncov/images/COVID-19-SM-1200px.jpg 2x'></span>
+</a>
+<div class='visual-label'>
+<div class='label-inner'>
+<a class="icon-politics"></a>
+<span class='count'>394</span>
+</div>
+</div>
+</div>
+<div class='text-holder'>
+<p>
+<a href='https://hypervocal.com/items/3815645'>Coronavirus Disease 2019 (COVID-19)</a>
+</p>
+</div>
+<div class='meta-holder links-meta'>
+<ul class='list-unstyled list-inline meta-list'>
+<li>
+<i class='icon-clock'></i>
+22h
+</li>
+<li>
+<a href='https://hypervocal.com/items/3815645'>www.cdc.gov</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='meta-holder'>
+<ul class='list-unstyled list-inline'>
+<li>
+<a class='avatar-image bg-cover' href='http://twitter.com/DrBiden' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/1295563079145656326/3m4hhBKY_normal.jpg" alt="3m4hhbky normal" />
+</a>
+</li>
+<li>
+<a class='avatar-image bg-cover' href='https://twitter.com/hypervocal' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/901389723545063424/ty5YwerL_normal.jpg" alt="Ty5ywerl normal" />
+</a>
+</li>
+<li>
+<a class='avatar-image bg-cover' href='https://twitter.com/Only4RM' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/1176729167418843137/d7p1gwXc_normal.jpg" alt="D7p1gwxc normal" />
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+<div class='col-xs-6 col-sm-4'>
+<div class='category-politics item-secondary post-item same-height-item small-type'>
+<div class='category-holder'>
+<div class='post-category'>
+<div class='category-inner'>
+<a href='https://hypervocal.com/items/by-category/1/politics' target='_blank'>
+<span>Politics</span>
+</a>
+</div>
+</div>
+</div>
+<div class='post-holder'>
+<div class='visual-holder'>
+<a class='image-holder bg-cover' href='https://hypervocal.com/items/3815673'>
+<span data-srcset='https://static.reuters.com/resources/r/?m=02&amp;d=20201017&amp;t=2&amp;i=1537862772&amp;r=LYNXMPEG9G0HK&amp;w=800, https://static.reuters.com/resources/r/?m=02&amp;d=20201017&amp;t=2&amp;i=1537862772&amp;r=LYNXMPEG9G0HK&amp;w=800 2x'></span>
+<span data-media='(min-width: 768px)' data-srcset='https://static.reuters.com/resources/r/?m=02&amp;d=20201017&amp;t=2&amp;i=1537862772&amp;r=LYNXMPEG9G0HK&amp;w=800, https://static.reuters.com/resources/r/?m=02&amp;d=20201017&amp;t=2&amp;i=1537862772&amp;r=LYNXMPEG9G0HK&amp;w=800 2x'></span>
+<span data-media='(min-width: 1024px)' data-srcset='https://static.reuters.com/resources/r/?m=02&amp;d=20201017&amp;t=2&amp;i=1537862772&amp;r=LYNXMPEG9G0HK&amp;w=800, https://static.reuters.com/resources/r/?m=02&amp;d=20201017&amp;t=2&amp;i=1537862772&amp;r=LYNXMPEG9G0HK&amp;w=800 2x'></span>
+</a>
+<div class='visual-label'>
+<div class='label-inner'>
+<a class="icon-politics"></a>
+<span class='count'>1,075</span>
+</div>
+</div>
+</div>
+<div class='text-holder'>
+<p>
+<a href='https://hypervocal.com/items/3815673'>Britain records 16,171 new coronavirus cases in 24 hours</a>
+</p>
+</div>
+<div class='meta-holder links-meta'>
+<ul class='list-unstyled list-inline meta-list'>
+<li>
+<i class='icon-clock'></i>
+22h
+</li>
+<li>
+<a href='https://hypervocal.com/items/3815673'>www.reuters.com</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='meta-holder'>
+<ul class='list-unstyled list-inline'>
+<li>
+<a class='avatar-image bg-cover' href='http://twitter.com/Reuters' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/1194751949821939712/3VBu4_Sa_normal.jpg" alt="3vbu4 sa normal" />
+</a>
+</li>
+<li>
+<a class='avatar-image bg-cover' href='https://twitter.com/hypervocal' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/901389723545063424/ty5YwerL_normal.jpg" alt="Ty5ywerl normal" />
+</a>
+</li>
+<li>
+<a class='avatar-image bg-cover' href='https://twitter.com/kbiegel' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/1049181165154787328/sFXJDuQP_normal.jpg" alt="Sfxjduqp normal" />
+</a>
+</li>
+<li>
+<a class='avatar-image bg-cover' href='https://twitter.com/maggieNYT' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/1274530068665114624/c_TiFM-8_normal.jpg" alt="C tifm 8 normal" />
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+<div class='col-xs-6 col-sm-4'>
+<div class='category-politics item-secondary post-item same-height-item small-type'>
+<div class='category-holder'>
+<div class='post-category'>
+<div class='category-inner'>
+<a href='https://hypervocal.com/items/by-category/1/politics' target='_blank'>
+<span>Politics</span>
+</a>
+</div>
+</div>
+</div>
+<div class='post-holder'>
+<div class='visual-holder'>
+<a class='image-holder bg-cover' href='https://hypervocal.com/items/3815704'>
+<span data-srcset='https://www.boisestatepublicradio.org/sites/idaho/files/styles/medium/public/201910/michael_mcfaul_fcwthp.jpg, https://www.boisestatepublicradio.org/sites/idaho/files/styles/medium/public/201910/michael_mcfaul_fcwthp.jpg 2x'></span>
+<span data-media='(min-width: 768px)' data-srcset='https://www.boisestatepublicradio.org/sites/idaho/files/styles/medium/public/201910/michael_mcfaul_fcwthp.jpg, https://www.boisestatepublicradio.org/sites/idaho/files/styles/medium/public/201910/michael_mcfaul_fcwthp.jpg 2x'></span>
+<span data-media='(min-width: 1024px)' data-srcset='https://www.boisestatepublicradio.org/sites/idaho/files/styles/medium/public/201910/michael_mcfaul_fcwthp.jpg, https://www.boisestatepublicradio.org/sites/idaho/files/styles/medium/public/201910/michael_mcfaul_fcwthp.jpg 2x'></span>
+</a>
+<div class='visual-label'>
+<div class='label-inner'>
+<a class="icon-politics"></a>
+<span class='count'>460</span>
+</div>
+</div>
+</div>
+<div class='text-holder'>
+<p>
+<a href='https://hypervocal.com/items/3815704'>&quot;From Cold War To Hot Peace&quot; By Michael McFaul</a>
+</p>
+</div>
+<div class='meta-holder links-meta'>
+<ul class='list-unstyled list-inline meta-list'>
+<li>
+<i class='icon-clock'></i>
+22h
+</li>
+<li>
+<a href='https://hypervocal.com/items/3815704'>www.boisestatepublicradio.org</a>
+</li>
+</ul>
+</div>
+</div>
+<div class='meta-holder'>
+<ul class='list-unstyled list-inline'>
+<li>
+<a class='avatar-image bg-cover' href='http://twitter.com/McFaul' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/640815361638535169/L5CJEZkw_normal.jpg" alt="L5cjezkw normal" />
+</a>
+</li>
+<li>
+<a class='avatar-image bg-cover' href='https://twitter.com/hypervocal' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/901389723545063424/ty5YwerL_normal.jpg" alt="Ty5ywerl normal" />
+</a>
+</li>
+</ul>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+<div class='trending-giphy-container'>
+<h3>
+Trending
+Giphy
+</h3>
+<div class='giphy-container'>
+</div>
+</div>
+<div class='btn-trigger-block'>
+<article class='category-politics post-item'>
+<div class='category-holder'>
+<div class='post-category'>
+<div class='category-inner'>
+<a href='https://hypervocal.com/items/by-category/1/politics' target='_blank'>
+<span>Politics</span>
+</a>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-5 col-sm-4 col-md-3'>
+<div class='visual-holder'>
+<div class='visual-label'>
+<div class='label-inner'>
+<a class="icon-politics"></a>
+<span class='count'>3,668</span>
+</div>
+</div>
+<a class='image-holder' href='https://hypervocal.com/items/3815721'>
+<picture>
+<source media='(max-width: 767px)' srcset='https://cdn.cnn.com/cnnnext/dam/assets/200213175742-05-coronavirus-0213-super-tease.jpg, https://cdn.cnn.com/cnnnext/dam/assets/200213175742-05-coronavirus-0213-super-tease.jpg 2x'>
+<source media='(max-width: 1024px)' srcset='https://cdn.cnn.com/cnnnext/dam/assets/200213175742-05-coronavirus-0213-super-tease.jpg, https://cdn.cnn.com/cnnnext/dam/assets/200213175742-05-coronavirus-0213-super-tease.jpg 2x'>
+<source srcset='https://cdn.cnn.com/cnnnext/dam/assets/200213175742-05-coronavirus-0213-super-tease.jpg, https://cdn.cnn.com/cnnnext/dam/assets/200213175742-05-coronavirus-0213-super-tease.jpg 2x'>
+<img class="img-responsive" src="https://cdn.cnn.com/cnnnext/dam/assets/200213175742-05-coronavirus-0213-super-tease.jpg" alt="200213175742 05 coronavirus 0213 super tease" />
+</picture>
+</a>
+</div>
+</div>
+<div class='col-xs-7 col-sm-8 col-md-9'>
+<div class='text-holder'>
+<h2 class='h3'>
+<a href='https://hypervocal.com/items/3815721'>Coronavirus update: Latest news from around the world</a>
+</h2>
+<p class='hidden-xs'>
+The coronavirus pandemic has brought countries to a standstill. In many places, as countries reopen, Covid-19 cases are on the rise. Follow here for the latest.
+</p>
+</div>
+<div class='meta-holder'>
+<ul class='list-unstyled list-inline'>
+<li>
+<a class='avatar-image bg-cover' href='http://twitter.com/CNNPolitics' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/918899077168934912/NrRRE0_b_normal.jpg" alt="Nrrre0 b normal" />
+</a>
+</li>
+<li>
+<a class='avatar-image bg-cover' href='https://twitter.com/hypervocal' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/901389723545063424/ty5YwerL_normal.jpg" alt="Ty5ywerl normal" />
+</a>
+</li>
+</ul>
+<ul class='list-unstyled list-inline meta-list'>
+<li>
+<i class='icon-clock'></i>
+21h
+</li>
+<li>
+<a href='https://hypervocal.com/items/3815721'>www.cnn.com</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</article>
+
+<article class='category-politics post-item'>
+<div class='category-holder'>
+<div class='post-category'>
+<div class='category-inner'>
+<a href='https://hypervocal.com/items/by-category/1/politics' target='_blank'>
+<span>Politics</span>
+</a>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-5 col-sm-4 col-md-3'>
+<div class='visual-holder'>
+<div class='visual-label'>
+<div class='label-inner'>
+<a class="icon-politics"></a>
+<span class='count'>295</span>
+</div>
+</div>
+<a class='image-holder' href='https://hypervocal.com/items/3815751'>
+<picture>
+<source media='(max-width: 767px)' srcset='https://s.abcnews.com/images/Health/loving-county-ap-ps-201013_1602624844187_hpMain_16x9_992.jpg, https://s.abcnews.com/images/Health/loving-county-ap-ps-201013_1602624844187_hpMain_16x9_992.jpg 2x'>
+<source media='(max-width: 1024px)' srcset='https://s.abcnews.com/images/Health/loving-county-ap-ps-201013_1602624844187_hpMain_16x9_992.jpg, https://s.abcnews.com/images/Health/loving-county-ap-ps-201013_1602624844187_hpMain_16x9_992.jpg 2x'>
+<source srcset='https://s.abcnews.com/images/Health/loving-county-ap-ps-201013_1602624844187_hpMain_16x9_992.jpg, https://s.abcnews.com/images/Health/loving-county-ap-ps-201013_1602624844187_hpMain_16x9_992.jpg 2x'>
+<img class="img-responsive" src="https://s.abcnews.com/images/Health/loving-county-ap-ps-201013_1602624844187_hpMain_16x9_992.jpg" alt="Loving county ap ps 201013 1602624844187 hpmain 16x9 992" />
+</picture>
+</a>
+</div>
+</div>
+<div class='col-xs-7 col-sm-8 col-md-9'>
+<div class='text-holder'>
+<h2 class='h3'>
+<a href='https://hypervocal.com/items/3815751'>The last COVID-free counties in America</a>
+</h2>
+<p class='hidden-xs'>
+In mid-May, 231 of the nation's 3,143 counties had reported no cases of COVID-19. By mid-October, that number shrunk to four.
+</p>
+</div>
+<div class='meta-holder'>
+<ul class='list-unstyled list-inline'>
+<li>
+<a class='avatar-image bg-cover' href='http://twitter.com/ABC' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/1082358814819536896/19QbYCgF_normal.jpg" alt="19qbycgf normal" />
+</a>
+</li>
+<li>
+<a class='avatar-image bg-cover' href='https://twitter.com/cmarinucci' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/908770847657271296/19Vhfkzy_normal.jpg" alt="19vhfkzy normal" />
+</a>
+</li>
+<li>
+<a class='avatar-image bg-cover' href='https://twitter.com/hypervocal' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/901389723545063424/ty5YwerL_normal.jpg" alt="Ty5ywerl normal" />
+</a>
+</li>
+</ul>
+<ul class='list-unstyled list-inline meta-list'>
+<li>
+<i class='icon-clock'></i>
+21h
+</li>
+<li>
+<a href='https://hypervocal.com/items/3815751'>abcnews.go.com</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</article>
+
+<article class='category-politics post-item'>
+<div class='category-holder'>
+<div class='post-category'>
+<div class='category-inner'>
+<a href='https://hypervocal.com/items/by-category/1/politics' target='_blank'>
+<span>Politics</span>
+</a>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-5 col-sm-4 col-md-3'>
+<div class='visual-holder'>
+<div class='visual-label'>
+<div class='label-inner'>
+<a class="icon-politics"></a>
+<span class='count'>2,376</span>
+</div>
+</div>
+<a class='image-holder' href='https://hypervocal.com/items/3815737'>
+<picture>
+<source media='(max-width: 767px)' srcset='https://thehill.com/sites/default/files/bidenjoe_073119upi_lead.jpg, https://thehill.com/sites/default/files/bidenjoe_073119upi_lead.jpg 2x'>
+<source media='(max-width: 1024px)' srcset='https://thehill.com/sites/default/files/bidenjoe_073119upi_lead.jpg, https://thehill.com/sites/default/files/bidenjoe_073119upi_lead.jpg 2x'>
+<source srcset='https://thehill.com/sites/default/files/bidenjoe_073119upi_lead.jpg, https://thehill.com/sites/default/files/bidenjoe_073119upi_lead.jpg 2x'>
+<img class="img-responsive" src="https://thehill.com/sites/default/files/bidenjoe_073119upi_lead.jpg" alt="Bidenjoe 073119upi lead" />
+</picture>
+</a>
+</div>
+</div>
+<div class='col-xs-7 col-sm-8 col-md-9'>
+<div class='text-holder'>
+<h2 class='h3'>
+<a href='https://hypervocal.com/items/3815737'>Biden camp urges supporters to 'campaign like we're trailing': report</a>
+</h2>
+<p class='hidden-xs'>
+Democratic nominee Joe Biden's campaign is urging supporters to not become complacent, despite polling that shows the former vice president leading President Trump nationally and in key battleground states, adding
+</p>
+</div>
+<div class='meta-holder'>
+<ul class='list-unstyled list-inline'>
+<li>
+<a class='avatar-image bg-cover' href='http://twitter.com/thehill' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg" alt="Tw7jpe5v normal" />
+</a>
+</li>
+<li>
+<a class='avatar-image bg-cover' href='https://twitter.com/hypervocal' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/901389723545063424/ty5YwerL_normal.jpg" alt="Ty5ywerl normal" />
+</a>
+</li>
+<li>
+<a class='avatar-image bg-cover' href='https://twitter.com/Only4RM' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/1176729167418843137/d7p1gwXc_normal.jpg" alt="D7p1gwxc normal" />
+</a>
+</li>
+</ul>
+<ul class='list-unstyled list-inline meta-list'>
+<li>
+<i class='icon-clock'></i>
+21h
+</li>
+<li>
+<a href='https://hypervocal.com/items/3815737'>thehill.com</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</article>
+
+<article class='category-politics post-item'>
+<div class='category-holder'>
+<div class='post-category'>
+<div class='category-inner'>
+<a href='https://hypervocal.com/items/by-category/1/politics' target='_blank'>
+<span>Politics</span>
+</a>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-5 col-sm-4 col-md-3'>
+<div class='visual-holder'>
+<div class='visual-label'>
+<div class='label-inner'>
+<a class="icon-politics"></a>
+<span class='count'>4,430</span>
+</div>
+</div>
+<a class='image-holder' href='https://hypervocal.com/items/3815906'>
+<picture>
+<source media='(max-width: 767px)' srcset='https://babylonbee.com/img/articles/article-7195-1.jpg, https://babylonbee.com/img/articles/article-7195-1.jpg 2x'>
+<source media='(max-width: 1024px)' srcset='https://babylonbee.com/img/articles/article-7195-1.jpg, https://babylonbee.com/img/articles/article-7195-1.jpg 2x'>
+<source srcset='https://babylonbee.com/img/articles/article-7195-1.jpg, https://babylonbee.com/img/articles/article-7195-1.jpg 2x'>
+<img class="img-responsive" src="https://babylonbee.com/img/articles/article-7195-1.jpg" alt="Article 7195 1" />
+</picture>
+</a>
+</div>
+</div>
+<div class='col-xs-7 col-sm-8 col-md-9'>
+<div class='text-holder'>
+<h2 class='h3'>
+<a href='https://hypervocal.com/items/3815906'>L.A. Mayor Allows Large Religious Gathering Outside Staples Center</a>
+</h2>
+<p class='hidden-xs'>
+LOS ANGELES, CA&amp;mdash;Los Angeles Mayor&amp;nbsp;Eric Garcetti, having opposed large religious gatherings in his city for the past 7 months, has suddenly reversed course, allowing a large worship service to take place in the streets of the city last night.Despite the ban on religious gatherings, the worshipers came together to honor their god, LeBron James, in a s &amp;hellip;
+</p>
+</div>
+<div class='meta-holder'>
+<ul class='list-unstyled list-inline'>
+<li>
+<a class='avatar-image bg-cover' href='http://twitter.com/TheBabylonBee' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/1273660251246440448/P8th8oxp_normal.jpg" alt="P8th8oxp normal" />
+</a>
+</li>
+<li>
+<a class='avatar-image bg-cover' href='https://twitter.com/hypervocal' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/901389723545063424/ty5YwerL_normal.jpg" alt="Ty5ywerl normal" />
+</a>
+</li>
+<li>
+<a class='avatar-image bg-cover' href='https://twitter.com/NathanWurtzel' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/1308753393108881409/1WCXCPiw_normal.jpg" alt="1wcxcpiw normal" />
+</a>
+</li>
+</ul>
+<ul class='list-unstyled list-inline meta-list'>
+<li>
+<i class='icon-clock'></i>
+19h
+</li>
+<li>
+<a href='https://hypervocal.com/items/3815906'>babylonbee.com</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</article>
+
+<article class='category-politics post-item'>
+<div class='category-holder'>
+<div class='post-category'>
+<div class='category-inner'>
+<a href='https://hypervocal.com/items/by-category/1/politics' target='_blank'>
+<span>Politics</span>
+</a>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-5 col-sm-4 col-md-3'>
+<div class='visual-holder'>
+<div class='visual-label'>
+<div class='label-inner'>
+<a class="icon-politics"></a>
+<span class='count'>535</span>
+</div>
+</div>
+<a class='image-holder' href='https://hypervocal.com/items/3815772'>
+<picture>
+<source media='(max-width: 767px)' srcset='https://thehill.com/sites/default/files/cornynjohn_101220gn2_lead.jpg, https://thehill.com/sites/default/files/cornynjohn_101220gn2_lead.jpg 2x'>
+<source media='(max-width: 1024px)' srcset='https://thehill.com/sites/default/files/cornynjohn_101220gn2_lead.jpg, https://thehill.com/sites/default/files/cornynjohn_101220gn2_lead.jpg 2x'>
+<source srcset='https://thehill.com/sites/default/files/cornynjohn_101220gn2_lead.jpg, https://thehill.com/sites/default/files/cornynjohn_101220gn2_lead.jpg 2x'>
+<img class="img-responsive" src="https://thehill.com/sites/default/files/cornynjohn_101220gn2_lead.jpg" alt="Cornynjohn 101220gn2 lead" />
+</picture>
+</a>
+</div>
+</div>
+<div class='col-xs-7 col-sm-8 col-md-9'>
+<div class='text-holder'>
+<h2 class='h3'>
+<a href='https://hypervocal.com/items/3815772'>Changing suburbs threaten GOP hold on Texas</a>
+</h2>
+<p class='hidden-xs'>
+Warning signs are flashing for Republicans in Texas, as the party faces eroding support in the state's increasingly diverse suburbs.
+</p>
+</div>
+<div class='meta-holder'>
+<ul class='list-unstyled list-inline'>
+<li>
+<a class='avatar-image bg-cover' href='http://twitter.com/thehill' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg" alt="Tw7jpe5v normal" />
+</a>
+</li>
+<li>
+<a class='avatar-image bg-cover' href='https://twitter.com/hypervocal' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/901389723545063424/ty5YwerL_normal.jpg" alt="Ty5ywerl normal" />
+</a>
+</li>
+</ul>
+<ul class='list-unstyled list-inline meta-list'>
+<li>
+<i class='icon-clock'></i>
+21h
+</li>
+<li>
+<a href='https://hypervocal.com/items/3815772'>thehill.com</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</article>
+
+<article class='category-politics post-item'>
+<div class='category-holder'>
+<div class='post-category'>
+<div class='category-inner'>
+<a href='https://hypervocal.com/items/by-category/1/politics' target='_blank'>
+<span>Politics</span>
+</a>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-5 col-sm-4 col-md-3'>
+<div class='visual-holder'>
+<div class='visual-label'>
+<div class='label-inner'>
+<a class="icon-politics"></a>
+<span class='count'>2,265</span>
+</div>
+</div>
+<a class='image-holder' href='https://hypervocal.com/items/3816176'>
+<picture>
+<source media='(max-width: 767px)' srcset='https://img.buzzfeed.com/buzzfeed-static/static/2020-10/17/20/tmp/35126810114c/tmp-name-2-3851-1602967115-5_dblbig.jpg?resize=1200:*, https://img.buzzfeed.com/buzzfeed-static/static/2020-10/17/20/tmp/35126810114c/tmp-name-2-3851-1602967115-5_dblbig.jpg?resize=1200:* 2x'>
+<source media='(max-width: 1024px)' srcset='https://img.buzzfeed.com/buzzfeed-static/static/2020-10/17/20/tmp/35126810114c/tmp-name-2-3851-1602967115-5_dblbig.jpg?resize=1200:*, https://img.buzzfeed.com/buzzfeed-static/static/2020-10/17/20/tmp/35126810114c/tmp-name-2-3851-1602967115-5_dblbig.jpg?resize=1200:* 2x'>
+<source srcset='https://img.buzzfeed.com/buzzfeed-static/static/2020-10/17/20/tmp/35126810114c/tmp-name-2-3851-1602967115-5_dblbig.jpg?resize=1200:*, https://img.buzzfeed.com/buzzfeed-static/static/2020-10/17/20/tmp/35126810114c/tmp-name-2-3851-1602967115-5_dblbig.jpg?resize=1200:* 2x'>
+<img class="img-responsive" src="https://img.buzzfeed.com/buzzfeed-static/static/2020-10/17/20/tmp/35126810114c/tmp-name-2-3851-1602967115-5_dblbig.jpg?resize=1200:*" alt="Tmp name 2 3851 1602967115 5 dblbig" />
+</picture>
+</a>
+</div>
+</div>
+<div class='col-xs-7 col-sm-8 col-md-9'>
+<div class='text-holder'>
+<h2 class='h3'>
+<a href='https://hypervocal.com/items/3816176'>People Of Color Are Sharing The Meaning Behind Their Names After A GOP Senator Mocked Kamala Harris's Name</a>
+</h2>
+<p class='hidden-xs'>
+&quot;Learn how to say peoples' names correctly. It's part of their identity and doing so is a basic form of respect.&quot;
+</p>
+</div>
+<div class='meta-holder'>
+<ul class='list-unstyled list-inline'>
+<li>
+<a class='avatar-image bg-cover' href='http://twitter.com/BuzzFeedNews' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/1311151611427856387/U6JC4Hw0_normal.png" alt="U6jc4hw0 normal" />
+</a>
+</li>
+<li>
+<a class='avatar-image bg-cover' href='https://twitter.com/cmarinucci' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/908770847657271296/19Vhfkzy_normal.jpg" alt="19vhfkzy normal" />
+</a>
+</li>
+<li>
+<a class='avatar-image bg-cover' href='https://twitter.com/JuddApatow' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/2189158656/image_normal.jpg" alt="Image normal" />
+</a>
+</li>
+</ul>
+<ul class='list-unstyled list-inline meta-list'>
+<li>
+<i class='icon-clock'></i>
+16h
+</li>
+<li>
+<a href='https://hypervocal.com/items/3816176'>www.buzzfeednews.com</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</article>
+
+<article class='category-politics post-item'>
+<div class='category-holder'>
+<div class='post-category'>
+<div class='category-inner'>
+<a href='https://hypervocal.com/items/by-category/1/politics' target='_blank'>
+<span>Politics</span>
+</a>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-5 col-sm-4 col-md-3'>
+<div class='visual-holder'>
+<div class='visual-label'>
+<div class='label-inner'>
+<a class="icon-politics"></a>
+<span class='count'>303</span>
+</div>
+</div>
+<a class='image-holder' href='https://hypervocal.com/items/3815797'>
+<picture>
+<source media='(max-width: 767px)' srcset='https://thehill.com/sites/default/files/mcconnellmitch_100120gn7_lead.jpg, https://thehill.com/sites/default/files/mcconnellmitch_100120gn7_lead.jpg 2x'>
+<source media='(max-width: 1024px)' srcset='https://thehill.com/sites/default/files/mcconnellmitch_100120gn7_lead.jpg, https://thehill.com/sites/default/files/mcconnellmitch_100120gn7_lead.jpg 2x'>
+<source srcset='https://thehill.com/sites/default/files/mcconnellmitch_100120gn7_lead.jpg, https://thehill.com/sites/default/files/mcconnellmitch_100120gn7_lead.jpg 2x'>
+<img class="img-responsive" src="https://thehill.com/sites/default/files/mcconnellmitch_100120gn7_lead.jpg" alt="Mcconnellmitch 100120gn7 lead" />
+</picture>
+</a>
+</div>
+</div>
+<div class='col-xs-7 col-sm-8 col-md-9'>
+<div class='text-holder'>
+<h2 class='h3'>
+<a href='https://hypervocal.com/items/3815797'>McConnell details $500 billion COVID bill set for Wednesday vote</a>
+</h2>
+<p class='hidden-xs'>
+The Senate will vote on a $500 billion GOP coronavirus relief bill on Wednesday, Senate Majority Leader Mitch McConnell (R-Ky.) announced on Saturday.
+</p>
+</div>
+<div class='meta-holder'>
+<ul class='list-unstyled list-inline'>
+<li>
+<a class='avatar-image bg-cover' href='http://twitter.com/thehill' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg" alt="Tw7jpe5v normal" />
+</a>
+</li>
+</ul>
+<ul class='list-unstyled list-inline meta-list'>
+<li>
+<i class='icon-clock'></i>
+21h
+</li>
+<li>
+<a href='https://hypervocal.com/items/3815797'>thehill.com</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</article>
+
+<article class='category-politics post-item'>
+<div class='category-holder'>
+<div class='post-category'>
+<div class='category-inner'>
+<a href='https://hypervocal.com/items/by-category/1/politics' target='_blank'>
+<span>Politics</span>
+</a>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-5 col-sm-4 col-md-3'>
+<div class='visual-holder'>
+<div class='visual-label'>
+<div class='label-inner'>
+<a class="icon-politics"></a>
+<span class='count'>1,150</span>
+</div>
+</div>
+<a class='image-holder' href='https://hypervocal.com/items/3815813'>
+<picture>
+<source media='(max-width: 767px)' srcset='https://thehill.com/sites/default/files/cuomoandrew_090820getty_governors.jpg, https://thehill.com/sites/default/files/cuomoandrew_090820getty_governors.jpg 2x'>
+<source media='(max-width: 1024px)' srcset='https://thehill.com/sites/default/files/cuomoandrew_090820getty_governors.jpg, https://thehill.com/sites/default/files/cuomoandrew_090820getty_governors.jpg 2x'>
+<source srcset='https://thehill.com/sites/default/files/cuomoandrew_090820getty_governors.jpg, https://thehill.com/sites/default/files/cuomoandrew_090820getty_governors.jpg 2x'>
+<img class="img-responsive" src="https://thehill.com/sites/default/files/cuomoandrew_090820getty_governors.jpg" alt="Cuomoandrew 090820getty governors" />
+</picture>
+</a>
+</div>
+</div>
+<div class='col-xs-7 col-sm-8 col-md-9'>
+<div class='text-holder'>
+<h2 class='h3'>
+<a href='https://hypervocal.com/items/3815813'>NY wedding with 10,000 attendees shut down amid COVID-19</a>
+</h2>
+<p class='hidden-xs'>
+New York officials this weekshut down a wedding expected to draw 10,000 guests amid the ongoing coronavirus pandemic, New York Gov. Andrew Cuomo (D) confirmed on Saturday.
+</p>
+</div>
+<div class='meta-holder'>
+<ul class='list-unstyled list-inline'>
+<li>
+<a class='avatar-image bg-cover' href='http://twitter.com/thehill' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/907330975587336193/tw7JPE5v_normal.jpg" alt="Tw7jpe5v normal" />
+</a>
+</li>
+<li>
+<a class='avatar-image bg-cover' href='https://twitter.com/hypervocal' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/901389723545063424/ty5YwerL_normal.jpg" alt="Ty5ywerl normal" />
+</a>
+</li>
+</ul>
+<ul class='list-unstyled list-inline meta-list'>
+<li>
+<i class='icon-clock'></i>
+20h
+</li>
+<li>
+<a href='https://hypervocal.com/items/3815813'>thehill.com</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</article>
+
+<article class='category-politics post-item'>
+<div class='category-holder'>
+<div class='post-category'>
+<div class='category-inner'>
+<a href='https://hypervocal.com/items/by-category/1/politics' target='_blank'>
+<span>Politics</span>
+</a>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-5 col-sm-4 col-md-3'>
+<div class='visual-holder'>
+<div class='visual-label'>
+<div class='label-inner'>
+<a class="icon-politics"></a>
+<span class='count'>1,544</span>
+</div>
+</div>
+<a class='image-holder' href='https://hypervocal.com/items/3815835'>
+<picture>
+<source media='(max-width: 767px)' srcset='https://static.reuters.com/resources/r/?m=02&amp;d=20201017&amp;t=2&amp;i=1537868813&amp;r=LYNXMPEG9G0JL&amp;w=800, https://static.reuters.com/resources/r/?m=02&amp;d=20201017&amp;t=2&amp;i=1537868813&amp;r=LYNXMPEG9G0JL&amp;w=800 2x'>
+<source media='(max-width: 1024px)' srcset='https://static.reuters.com/resources/r/?m=02&amp;d=20201017&amp;t=2&amp;i=1537868813&amp;r=LYNXMPEG9G0JL&amp;w=800, https://static.reuters.com/resources/r/?m=02&amp;d=20201017&amp;t=2&amp;i=1537868813&amp;r=LYNXMPEG9G0JL&amp;w=800 2x'>
+<source srcset='https://static.reuters.com/resources/r/?m=02&amp;d=20201017&amp;t=2&amp;i=1537868813&amp;r=LYNXMPEG9G0JL&amp;w=800, https://static.reuters.com/resources/r/?m=02&amp;d=20201017&amp;t=2&amp;i=1537868813&amp;r=LYNXMPEG9G0JL&amp;w=800 2x'>
+<img class="img-responsive" src="https://static.reuters.com/resources/r/?m=02&amp;d=20201017&amp;t=2&amp;i=1537868813&amp;r=LYNXMPEG9G0JL&amp;w=800" alt="?m=02&amp;d=20201017&amp;t=2&amp;i=1537868813&amp;r=lynxmpeg9g0jl&amp;w=800" />
+</picture>
+</a>
+</div>
+</div>
+<div class='col-xs-7 col-sm-8 col-md-9'>
+<div class='text-holder'>
+<h2 class='h3'>
+<a href='https://hypervocal.com/items/3815835'>Europe crosses 150,000 daily coronavirus cases mark, a week after reporting 100,000 daily cases</a>
+</h2>
+<p class='hidden-xs'>
+Europe surpassed 150,000 daily coronavirus cases on Friday just a week after reporting 100,000 cases for the first time, according to Reuters tally, with countries such as France, Germany reporting record daily numbers of infections this week.
+</p>
+</div>
+<div class='meta-holder'>
+<ul class='list-unstyled list-inline'>
+<li>
+<a class='avatar-image bg-cover' href='http://twitter.com/Reuters' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/1194751949821939712/3VBu4_Sa_normal.jpg" alt="3vbu4 sa normal" />
+</a>
+</li>
+<li>
+<a class='avatar-image bg-cover' href='https://twitter.com/costareports' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/1161371800313454592/gTDWqOIL_normal.jpg" alt="Gtdwqoil normal" />
+</a>
+</li>
+<li>
+<a class='avatar-image bg-cover' href='https://twitter.com/maggieNYT' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/1274530068665114624/c_TiFM-8_normal.jpg" alt="C tifm 8 normal" />
+</a>
+</li>
+</ul>
+<ul class='list-unstyled list-inline meta-list'>
+<li>
+<i class='icon-clock'></i>
+20h
+</li>
+<li>
+<a href='https://hypervocal.com/items/3815835'>www.reuters.com</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</article>
+
+<article class='category-politics post-item'>
+<div class='category-holder'>
+<div class='post-category'>
+<div class='category-inner'>
+<a href='https://hypervocal.com/items/by-category/1/politics' target='_blank'>
+<span>Politics</span>
+</a>
+</div>
+</div>
+</div>
+<div class='row'>
+<div class='col-xs-5 col-sm-4 col-md-3'>
+<div class='visual-holder'>
+<div class='visual-label'>
+<div class='label-inner'>
+<a class="icon-politics"></a>
+<span class='count'>3,877</span>
+</div>
+</div>
+<a class='image-holder' href='https://hypervocal.com/items/3815905'>
+<picture>
+<source media='(max-width: 767px)' srcset='https://babylonbee.com/img/articles/article-6105-1.jpg, https://babylonbee.com/img/articles/article-6105-1.jpg 2x'>
+<source media='(max-width: 1024px)' srcset='https://babylonbee.com/img/articles/article-6105-1.jpg, https://babylonbee.com/img/articles/article-6105-1.jpg 2x'>
+<source srcset='https://babylonbee.com/img/articles/article-6105-1.jpg, https://babylonbee.com/img/articles/article-6105-1.jpg 2x'>
+<img class="img-responsive" src="https://babylonbee.com/img/articles/article-6105-1.jpg" alt="Article 6105 1" />
+</picture>
+</a>
+</div>
+</div>
+<div class='col-xs-7 col-sm-8 col-md-9'>
+<div class='text-holder'>
+<h2 class='h3'>
+<a href='https://hypervocal.com/items/3815905'>Prohibition Enforcement Agents Raid Haircutting Speakeasy</a>
+</h2>
+<p class='hidden-xs'>
+DALLAS, TX&amp;mdash;Clad in fedoras, smoking cigars, and wielding Tommy guns, prohibition enforcement agents raided a&amp;nbsp;speakeasy salon today, busting a dangerous gang of haircutting criminals.The community thanked the brave agents for keeping them safe from the underground haircutting crime ring. The business has been operating in secret, with hair stylists o &amp;hellip;
+</p>
+</div>
+<div class='meta-holder'>
+<ul class='list-unstyled list-inline'>
+<li>
+<a class='avatar-image bg-cover' href='http://twitter.com/TheBabylonBee' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/1273660251246440448/P8th8oxp_normal.jpg" alt="P8th8oxp normal" />
+</a>
+</li>
+<li>
+<a class='avatar-image bg-cover' href='https://twitter.com/hypervocal' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/901389723545063424/ty5YwerL_normal.jpg" alt="Ty5ywerl normal" />
+</a>
+</li>
+<li>
+<a class='avatar-image bg-cover' href='https://twitter.com/NathanWurtzel' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/1308753393108881409/1WCXCPiw_normal.jpg" alt="1wcxcpiw normal" />
+</a>
+</li>
+</ul>
+<ul class='list-unstyled list-inline meta-list'>
+<li>
+<i class='icon-clock'></i>
+19h
+</li>
+<li>
+<a href='https://hypervocal.com/items/3815905'>babylonbee.com</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</article>
+
+</div>
+</div>
+</div>
+</div>
+</section>
+<section class='promo-section bg-cover'>
+<span data-srcset='https://d3athacxxkkdtx.cloudfront.net/assets/background-image001-mobile-ef594cda7a26df09f4f519e0291d54b188b577dd830a4f054cb150539f894b85.jpg, https://d3athacxxkkdtx.cloudfront.net/assets/background-image001-mobile@2x-ae10db2ea1b4bc884af1c3dacc65127500493e365c187e6db501c4f995c26183.jpg 2x'></span>
+<span data-media='(min-width: 768px)' data-srcset='https://d3athacxxkkdtx.cloudfront.net/assets/background-image001-tablet-ab3bd1d8b04d2e23cba09ca3647b2476be46ae630c540d4df8f21f89c5469f90.jpg, https://d3athacxxkkdtx.cloudfront.net/assets/background-image001-tablet@2x-ab3bd1d8b04d2e23cba09ca3647b2476be46ae630c540d4df8f21f89c5469f90.jpg 2x'></span>
+<span data-media='(min-width: 1024px)' data-srcset='https://d3athacxxkkdtx.cloudfront.net/assets/background-image001-desktop-b7aaae364eeac0d9937f41629a10686d3f1bb0ed682182f9e13856e5f42af2ed.jpg, https://d3athacxxkkdtx.cloudfront.net/assets/background-image001-desktop@2x-b7aaae364eeac0d9937f41629a10686d3f1bb0ed682182f9e13856e5f42af2ed.jpg 2x'></span>
+<div class='promo-inner'>
+<div class='container'>
+<div class='heading text-center'>
+<h2>
+GET A FREE, CUSTOM NEWS FEED
+<span>Delivered To My Inbox</span>
+</h2>
+</div>
+<div class='row'>
+<div class='col-xs-12 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3'>
+<form action='https://hypervocal.com/sign-up' class='signup-form'>
+<div class='form-group'>
+<input class='form-control' name='email' placeholder='Your Email' type='email'>
+</div>
+<button class='btn btn-lg btn-default' type='submit'>SIGN UP</button>
+</form>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+<section class='content-section most-popular-section hidden-xs'>
+<div class='container'>
+<div class='main-content-block'>
+<div class='articles-block same-height-block'>
+<div class='row'>
+<div class='col-xs-12 col-sm-10 col-sm-push-1 col-md-8 col-md-push-0'>
+<div class='articles-content'>
+<div class='content-headline text-center'>
+<h1 class='heading-skewed heading-sm'>
+<span>MOST VOCAL IN</span>
+</h1>
+</div>
+<div class='row'>
+<div class='col-xs-12 col-sm-6'>
+<div class='category-politics item-popular post-item same-height-item'>
+<div class='item-holder'>
+<div class='category-holder text-center'>
+<div class='post-category'>
+<div class='category-inner'>
+<a href='https://hypervocal.com/items/by-category/1/politics' target='_blank'>
+<span>Politics</span>
+</a>
+</div>
+</div>
+</div>
+<div class='post-holder'>
+<div class='category-politics visual-holder'>
+<a class='image-holder bg-cover' href='https://hypervocal.com/items/3815566'>
+<span data-srcset='https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20287549095398-e1602603940806.jpg, https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20287549095398-e1602603940806.jpg 2x'></span>
+<span data-media='(min-width: 768px)' data-srcset='https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20287549095398-e1602603940806.jpg, https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20287549095398-e1602603940806.jpg 2x'></span>
+<span data-media='(min-width: 1024px)' data-srcset='https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20287549095398-e1602603940806.jpg, https://static.foxnews.com/foxnews.com/content/uploads/2020/10/AP20287549095398-e1602603940806.jpg 2x'></span>
+</a>
+<div class='visual-label'>
+<div class='label-inner'>
+<a class="icon-politics"></a>
+<span class='count'>254</span>
+</div>
+</div>
+</div>
+<div class='text-holder text-static'>
+<h3>
+<a href='https://hypervocal.com/items/3815566'>Amy Coney Barrett: The likely confirmation schedule for the Supreme Court nominee</a>
+</h3>
+</div>
+<div class='meta-holder'>
+<ul class='list-unstyled list-inline'>
+<li>
+<a class='avatar-image bg-cover' href='http://twitter.com/ChadPergram' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/1166535687354671104/sLTw4iqu_normal.jpg" alt="Sltw4iqu normal" />
+</a>
+</li>
+</ul>
+</div>
+<div class='meta-holder links-meta'>
+<ul class='list-unstyled list-inline meta-list'>
+<li>
+<i class='icon-clock'></i>
+23h
+</li>
+<li>
+<a href='https://hypervocal.com/items/3815566'>www.foxnews.com</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class='btn-holder text-right'>
+<a class='btn-link' href='https://hypervocal.com/items/by-category/1/politics'>SEE ALL POLITICS</a>
+</div>
+</div>
+
+</div>
+<div class='col-xs-12 col-sm-6'>
+<div class='category-sport item-popular post-item same-height-item'>
+<div class='item-holder'>
+<div class='category-holder text-center'>
+<div class='post-category'>
+<div class='category-inner'>
+<a href='https://hypervocal.com/items/by-category/2/sport' target='_blank'>
+<span>Sports</span>
+</a>
+</div>
+</div>
+</div>
+<div class='post-holder'>
+<div class='category-sport visual-holder'>
+<a class='image-holder bg-cover' href='https://hypervocal.com/items/3815907'>
+<span data-srcset='https://kentuckysportsradio.com/wp-content/uploads/2020/10/101720_Kentucky_Huddle.jpg, https://kentuckysportsradio.com/wp-content/uploads/2020/10/101720_Kentucky_Huddle.jpg 2x'></span>
+<span data-media='(min-width: 768px)' data-srcset='https://kentuckysportsradio.com/wp-content/uploads/2020/10/101720_Kentucky_Huddle.jpg, https://kentuckysportsradio.com/wp-content/uploads/2020/10/101720_Kentucky_Huddle.jpg 2x'></span>
+<span data-media='(min-width: 1024px)' data-srcset='https://kentuckysportsradio.com/wp-content/uploads/2020/10/101720_Kentucky_Huddle.jpg, https://kentuckysportsradio.com/wp-content/uploads/2020/10/101720_Kentucky_Huddle.jpg 2x'></span>
+</a>
+<div class='visual-label'>
+<div class='label-inner'>
+<a class="icon-ball"></a>
+<span class='count'>912</span>
+</div>
+</div>
+</div>
+<div class='text-holder text-static'>
+<h3>
+<a href='https://hypervocal.com/items/3815907'>Mark Stoops is grateful Kentucky's knocked down almost every historic door | Kentucky Sports Radio</a>
+</h3>
+</div>
+<div class='meta-holder'>
+<ul class='list-unstyled list-inline'>
+<li>
+<a class='avatar-image bg-cover' href='http://twitter.com/RoushKSR' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/957630944931975170/Duef901T_normal.jpg" alt="Duef901t normal" />
+</a>
+</li>
+<li>
+<a class='avatar-image bg-cover' href='https://twitter.com/KySportsRadio' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/1180292172060471298/7RddCv5J_normal.jpg" alt="7rddcv5j normal" />
+</a>
+</li>
+</ul>
+</div>
+<div class='meta-holder links-meta'>
+<ul class='list-unstyled list-inline meta-list'>
+<li>
+<i class='icon-clock'></i>
+19h
+</li>
+<li>
+<a href='https://hypervocal.com/items/3815907'>kentuckysportsradio.com</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class='btn-holder text-right'>
+<a class='btn-link' href='https://hypervocal.com/items/by-category/2/sport'>SEE ALL SPORTS</a>
+</div>
+</div>
+
+</div>
+<div class='col-xs-12 col-sm-6'>
+<div class='category-tech item-popular post-item same-height-item'>
+<div class='item-holder'>
+<div class='category-holder text-center'>
+<div class='post-category'>
+<div class='category-inner'>
+<a href='https://hypervocal.com/items/by-category/3/tech' target='_blank'>
+<span>Tech</span>
+</a>
+</div>
+</div>
+</div>
+<div class='post-holder'>
+<div class='category-tech visual-holder'>
+<a class='image-holder bg-cover' href='https://hypervocal.com/items/3815676'>
+<span data-srcset='https://www.delltechnologies.com/uploads/2020/10/1600-x-800.jpg, https://www.delltechnologies.com/uploads/2020/10/1600-x-800.jpg 2x'></span>
+<span data-media='(min-width: 768px)' data-srcset='https://www.delltechnologies.com/uploads/2020/10/1600-x-800.jpg, https://www.delltechnologies.com/uploads/2020/10/1600-x-800.jpg 2x'></span>
+<span data-media='(min-width: 1024px)' data-srcset='https://www.delltechnologies.com/uploads/2020/10/1600-x-800.jpg, https://www.delltechnologies.com/uploads/2020/10/1600-x-800.jpg 2x'></span>
+</a>
+<div class='visual-label'>
+<div class='label-inner'>
+<a class="icon-button"></a>
+<span class='count'>300</span>
+</div>
+</div>
+</div>
+<div class='text-holder text-static'>
+<h3>
+<a href='https://hypervocal.com/items/3815676'>Digital Transformation Ignited by Pandemic - Dell Technologies</a>
+</h3>
+</div>
+<div class='meta-holder'>
+<ul class='list-unstyled list-inline'>
+<li>
+<a class='avatar-image bg-cover' href='http://twitter.com/MichaelDell' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/817627299570798592/XxdAd5R2_normal.jpg" alt="Xxdad5r2 normal" />
+</a>
+</li>
+</ul>
+</div>
+<div class='meta-holder links-meta'>
+<ul class='list-unstyled list-inline meta-list'>
+<li>
+<i class='icon-clock'></i>
+22h
+</li>
+<li>
+<a href='https://hypervocal.com/items/3815676'>www.delltechnologies.com</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class='btn-holder text-right'>
+<a class='btn-link' href='https://hypervocal.com/items/by-category/3/tech'>SEE ALL TECH</a>
+</div>
+</div>
+
+</div>
+<div class='col-xs-12 col-sm-6'>
+<div class='category-lifestyle item-popular post-item same-height-item'>
+<div class='item-holder'>
+<div class='category-holder text-center'>
+<div class='post-category'>
+<div class='category-inner'>
+<a href='https://hypervocal.com/items/by-category/4/lifestyle' target='_blank'>
+<span>Lifestyle</span>
+</a>
+</div>
+</div>
+</div>
+<div class='post-holder'>
+<div class='category-lifestyle visual-holder'>
+<a class='image-holder bg-cover' href='https://hypervocal.com/items/3816361'>
+<span data-srcset='https://i0.wp.com/truepundit.com/wp-content/uploads/2018/06/hillary.jpg?fit=1600%2C900&amp;ssl=1, https://i0.wp.com/truepundit.com/wp-content/uploads/2018/06/hillary.jpg?fit=1600%2C900&amp;ssl=1 2x'></span>
+<span data-media='(min-width: 768px)' data-srcset='https://i0.wp.com/truepundit.com/wp-content/uploads/2018/06/hillary.jpg?fit=1600%2C900&amp;ssl=1, https://i0.wp.com/truepundit.com/wp-content/uploads/2018/06/hillary.jpg?fit=1600%2C900&amp;ssl=1 2x'></span>
+<span data-media='(min-width: 1024px)' data-srcset='https://i0.wp.com/truepundit.com/wp-content/uploads/2018/06/hillary.jpg?fit=1600%2C900&amp;ssl=1, https://i0.wp.com/truepundit.com/wp-content/uploads/2018/06/hillary.jpg?fit=1600%2C900&amp;ssl=1 2x'></span>
+</a>
+<div class='visual-label'>
+<div class='label-inner'>
+<a class="icon-star"></a>
+<span class='count'>8,441</span>
+</div>
+</div>
+</div>
+<div class='text-holder text-static'>
+<h3>
+<a href='https://hypervocal.com/items/3816361'>Muammar Gaddafi's Cousin To Sue Hillary Clinton For &quot;Destroying Libya&quot;  True Pundit</a>
+</h3>
+</div>
+<div class='meta-holder'>
+<ul class='list-unstyled list-inline'>
+<li>
+<a class='avatar-image bg-cover' href='http://twitter.com/Thomas1774Paine' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/1016483322166251520/DlxvQ1e5_normal.jpg" alt="Dlxvq1e5 normal" />
+</a>
+</li>
+<li>
+<a class='avatar-image bg-cover' href='https://twitter.com/IWashington' target='_blank'>
+<img src="https://pbs.twimg.com/profile_images/1313559778954682370/CJJBzKkT_normal.jpg" alt="Cjjbzkkt normal" />
+</a>
+</li>
+</ul>
+</div>
+<div class='meta-holder links-meta'>
+<ul class='list-unstyled list-inline meta-list'>
+<li>
+<i class='icon-clock'></i>
+11h
+</li>
+<li>
+<a href='https://hypervocal.com/items/3816361'>truepundit.com</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class='btn-holder text-right'>
+<a class='btn-link' href='https://hypervocal.com/items/by-category/4/lifestyle'>SEE ALL LIFESTYLE</a>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+</main>
+
+<footer id='footer'>
+<div class='container btn-container'>
+<a class='back-to-top smooth-scroll icon-arrow-top' href='#wrapper'></a>
+</div>
+<div class='footer-info'>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12 col-sm-4'>
+<p class='h3'>READ MORE</p>
+<ul class='list-unstyled info-list'>
+<li>
+<a href='https://hypervocal.com/'>MOST VOCAL</a>
+</li>
+<li>
+<a href='https://hypervocal.com/items/latest'>LATEST NEWS</a>
+</li>
+<li>
+<a href='https://hypervocal.com/items/by-category/1/politics'>
+Politics
+</a>
+</li>
+<li>
+<a href='https://hypervocal.com/items/by-category/2/sport'>
+Sports
+</a>
+</li>
+<li>
+<a href='https://hypervocal.com/items/by-category/3/tech'>
+Tech
+</a>
+</li>
+<li>
+<a href='https://hypervocal.com/items/by-category/4/lifestyle'>
+Lifestyle
+</a>
+</li>
+<li>
+<a href='https://hypervocal.com/items/by-category/5/weird'>
+Weird
+</a>
+</li>
+</ul>
+</div>
+<div class='col-xs-12 col-sm-4'>
+<p class='h3'>COMPANY</p>
+<ul class='list-unstyled info-list'>
+<li>
+<a href='https://hypervocal.com/terms-of-service'>TERMS OF SERVICE</a>
+</li>
+<li>
+<a href='https://hypervocal.com/about'>ABOUT</a>
+</li>
+</ul>
+</div>
+<div class='col-xs-12 col-sm-4'>
+<p class='h3'>FOLLOW US</p>
+<ul class='list-unstyled list-inline social-list-rounded'>
+<li>
+<a class='icon-facebook' href='https://www.facebook.com/hypervocal'></a>
+</li>
+<li>
+<a class='icon-twitter' href='https://www.twitter.com/hypervocal'></a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class='footer-bottom'>
+<div class='container'>
+<div class='row'>
+<div class='col-xs-12 col-sm-6'>
+<div class='footer-logo'>
+<a href='https://hypervocal.com/'>
+<img height="67" width="183" src="https://d3athacxxkkdtx.cloudfront.net/assets/logo-6b8e5a01e4b78ce1bd482da58d3068d2afae4004cd9500470ae8bf12e76a6587.png" alt="Logo" />
+</a>
+</div>
+</div>
+<div class='col-xs-12 col-sm-6'>
+<div class='copyright'>
+<p>COPYRIGHT 2020 HYPERVOCAL</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+
+</div>
+</div>
+<script>
+  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-PSJM48B');
+</script>
+<script>
+  window.App = {
+    Flags: {},
+    Instances: {},
+    NameSpaces: {}
+  }
+</script>
+
+<div id='fb-root'></div>
+<script>
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=258068541067290";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="https://d3athacxxkkdtx.cloudfront.net/assets/vendor-9bdf631d5218f6e1ff2a1ba6598ae0f2b16d4e8b122dbd0e06f79ddb7ff5194d.js"></script>
+<script src="https://d3athacxxkkdtx.cloudfront.net/assets/application-271c003ef2b8e18d5ef26ed0f0c0a743152b272ad4d743843adc92429c246a85.js"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  
+  ga('create', 'UA-16528339-9', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+</body>
+</html>
